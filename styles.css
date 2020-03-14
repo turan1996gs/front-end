@@ -1,0 +1,576 @@
+.container {
+	width: 100%;
+	height: 69px;
+	background-color: white;
+}
+.container img {
+	position: absolute;
+	top: 30px;
+	left: 20px;
+	height: 47px;
+	width: 379px;
+}
+.container a {
+	position: absolute;
+	font-size: 12px;
+	line-height: 14px;
+	color: rgb(153,153,153);
+	font-family: "Georgia";
+	left: 38px;
+	top: 46px;
+}
+.containersearch input {
+	position: absolute;
+	left: 1013px;
+	top: 38px;
+	background-color: #232323;
+	width: 183px;
+	color: white;
+	border-radius: 7px;
+}
+.containersearch img {
+	position: absolute;
+	left: 1191px;
+	top: 37px;
+	height: 21px;
+}
+.containersearch a {
+	position: absolute;
+	font-size: 12px;
+	line-height: 14px;
+	color: rgb(253,253,253);
+	font-family: "Georgia";
+	left: 1195px;
+	top: 41px;
+}
+.containerm1 a {
+	position: absolute;
+	font-size: 30px;
+	line-height: 29px;
+	color: rgb(228,216,194);
+	font-family: "Georgia";
+	left: 20px;
+	top: 100px;
+}
+.containerm2 {
+	position: absolute;
+	font-size: 12px;
+	line-height: 14px;
+	color: rgb(228,216,193);
+	font-family: "Georgia";
+	left: 21px;
+	top: 134px;
+}
+#middle {
+	background-color: #531e1a;
+	width: 100%;
+	height: 436px;
+}
+#middle table a {
+	color: white;
+}
+#middle table {
+	left: 667px;
+	position: absolute;
+	top: 113px;
+	width: 656px;
+}
+#middle table a:hover {
+	color: red;
+}
+#middle iframe {
+	position: absolute;
+	left: 1087px;
+	top: 184px;
+}
+.conteinerm3 {
+	position: absolute;
+	left: 1088px;
+	top: 435px;
+	width: 230px;
+	height: 36px;
+	font-size: 12px;
+	line-height: 19px;
+	color: rgb(161,164,164);
+	font-family: "Georgia";
+}
+.conteinerm4 {
+	font-size: 12px;
+	line-height: 17px;
+	color: rgb(174,140,77);
+	font-family: "Georgia";
+	position: absolute;
+	left: 1187px;
+	top: 482px;
+}
+.conteinerm5 {
+	position: absolute;
+	top: 184px;
+	left: 30px;
+	background: url(img/slidershadow.png);
+	width: 703px;
+    height: 453px;
+    padding: 13px 10px;
+}
+.conteinerm6 {
+	font-size: 12px;
+	line-height: 17px;
+	color: rgb(174,140,77);
+	font-family: "Georgia";
+	border-style: solid;
+	border-width: 1px;
+	position: absolute;
+	top: 609px;
+    left: 614px;
+    padding: 4px;
+}
+.conteinerm7 {
+	position: absolute;
+	font-size: 20px;
+	line-height: 24px;
+	color: rgb(83,30,26);
+	font-family: "Georgia";
+	text-align: center;
+	left: 1190px;
+	top: 527px;
+	background: url(img/slidershadow.png);
+	width: 129px;
+	height: 100px;
+}
+.conteinerm8 {
+	position: absolute;
+	top: 527px;
+	left: 1090px;
+}
+.conteinerm9 {
+	position: absolute;
+	background: url(img/slidershadow.png);
+	height: 38px;
+	color: #871c20;
+	top: 700px;
+	width: 100%;
+	background-repeat: round;
+	left: 28px;
+	width: 1289px;
+	border-radius: 9px;
+}
+.conteinerm9 a {
+	font-size: 22px;
+	line-height: 26px;
+	color: rgb(82,30,25);
+	font-family: "Georgia";
+	padding-left: 10px;
+	left: 3px;
+    position: absolute;
+    top: 6px;
+}
+.conteinerm10 img{
+	left: 30px;
+	top: 770px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+	background: url(img/slidershadow.png);
+    width: 210px;
+	height: 129px;
+	padding: 6px 5px;
+}
+
+
+.conteinerm11 img{
+	left: 380px;
+	top: 770px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+	background: url(img/slidershadow.png);
+		width: 210px;
+		height: 129px;
+		padding: 6px 5px;
+}
+.conteinerm12 img{
+	left: 780px;
+	top: 770px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+	background: url(img/slidershadow.png);
+		width: 210px;
+		height: 129px;
+		padding: 6px 5px;
+}
+.conteinerm13 img{
+	left: 1100px;
+	top: 770px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+	background: url(img/slidershadow.png);
+		width: 210px;
+		height: 129px;
+		padding: 6px 5px;
+}
+.conteinerm10 a {
+	left: 30px;
+	top: 917px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinerm11 a {
+	left: 383px;
+	top: 917px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinerm12 a {
+	left: 781px;
+	top: 917px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinerm13 a{
+	left: 1101px;
+	top: 917px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinerm10 p {
+	left: 31px;
+	top: 932px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+}
+.conteinerm11 p {
+	left: 384px;
+	top: 931px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+}
+.conteinerm12  p {
+	left: 782px;
+	top: 932px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+}
+.conteinerm13 p {
+	left: 1102px;
+	top: 932px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+}
+.conteinerm14 {
+	position: absolute;
+	background: url(img/slidershadow.png);
+	height: 38px;
+	color: #871c20;
+	top: 1018px;
+	width: 100%;
+	background-repeat: round;
+	width: 1289px;
+	left:24px;
+	border-radius: 8px;
+}
+.conteinerm14 a{
+	color: #871c20;
+	font-size: 22px;
+	line-height: 26px;
+	color: rgb(82,30,25);
+	font-family: "Georgia";
+	padding-left: 10px;
+	left: 3px;
+    position: absolute;
+    top: 6px;
+}
+
+
+
+.conteinerm15 {
+	left: 38px;
+	top: 1092px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+    width: 210px;
+	height: 129px;
+}
+.conteinerm16 {
+	left: 38px;
+	top: 1246px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 23px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinerm17 {
+	left: 350px;
+	top: 1092px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinerm18 {
+	left: 350px;
+	top: 1246px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 22px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinerm15 a {
+	left: 110px;
+	top: -10px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 19px;
+	color: rgb(82,30,25);
+	width: 230px;
+	font-family: "Georgia";
+}
+.conteinerm16 a {
+	left: 111px;
+	top: -3;
+	position: absolute;
+	font-size: 16px;
+	line-height: 19px;
+	color: rgb(82,30,25);
+	font-family: "Georgia";
+	width: 220px;
+}
+.conteinerm17 a {
+	left: 110px;
+	top: -8px;
+	position: absolute;
+	font-size: 16px;
+	line-height: 19px;
+	color: rgb(82,30,25);
+	font-family: "Georgia";
+	   width: 200px;
+}
+.conteinerm18 a{
+	left: 111px;
+	top: -3px;
+	position: absolute;
+		font-size: 16px;
+	line-height: 19px;
+	color: rgb(82,30,25);
+	font-family: "Georgia";
+	width: 230px;
+	}
+.conteinermx1 {
+	left: 110px;
+	top: 15px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 23px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinermx2 {
+	left: 110px;
+	top: 22px;
+	position: absolute;
+width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 23px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+.conteinermx3 {
+	left: 200px;
+	top: 10px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+}
+.conteinermx4 {
+	left: 200px;
+	top: 60px;
+	position: absolute;
+	width: 208px;
+	height: 54px;
+	font-size: 13px;
+	line-height: 23px;
+	color: rgb(175,141,78);
+	font-family: "Georgia";
+}
+#footer {
+	background-color: black;
+	width: 100%;
+	height: 380px;
+	top: 1400px;
+	position: absolute;
+	
+}
+#footer table {
+	font-size: 13px;
+	line-height: 20px;
+	color: rgb(174,140,77);
+	font-family: "Georgia";
+}
+.con1 a {
+	font-size: 12px;
+	line-height: 14px;
+	color: rgb(104,104,104);
+	font-family: "Georgia";
+	position: absolute;
+	left: 29px;
+	top: 342px;
+}
+.con2 a {
+	font-size: 12px;
+	line-height: 14px;
+	color: rgb(104,104,104);
+	font-family: "Georgia";
+	position: absolute;
+	left: 1176px;
+	top: 342px;
+}
+#footer hr {
+	border-bottom: 1px solid #e4d8c2;
+	width: 95.5%;
+}
+.cnt1 a {
+	font-size: 16px;
+	line-height: 19px;
+	color: rgb(83,30,26);
+	font-family: "Georgia";
+	left: 908px;
+	top: 1007px;
+	position: relative;
+	
+}
+.cnt2 a {
+	font-size: 16px;
+    line-height: 22px;
+    color: rgb(175,141,78);
+    font-family: "Georgia";
+	position: absolute;
+	top: 1120px;
+    left: 916px;
+
+}
+.cnt2 p {
+	width: 298px;
+	height: 51px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+	position: absolute;
+	top: 1136px;
+    left: 916px;
+}
+
+.cnt3 p {
+	width: 298px;
+	height: 51px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+	position: absolute;
+	top: 1163px;
+    left: 916px;
+}
+.cnt4 a {
+	font-size: 16px;
+    line-height: 22px;
+    color: rgb(175,141,78);
+    font-family: "Georgia";
+	position: relative;
+	top: 1158px;
+    left: 908px;
+
+}
+.cnt4 p {
+	width: 280px;
+	height: 51px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+	position: absolute;
+	top: 1271px;
+    left: 916px;
+}
+.cnt5 p {
+	width: 298px;
+	height: 51px;
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(151,151,151);
+	font-family: "Georgia";
+	position: relative;
+	top: 1175px;
+    left: 909px;
+}
+.cnt6 a {
+	font-size: 13px;
+	line-height: 18px;
+	color: rgb(174,140,77);
+	font-family: "Georgia";
+	top: 1175px;
+    left: 1007px;
+	position:relative;
+}
+.containerellipse table {
+	top: 31px;
+	left: 459px;
+	position: absolute;
+	width: 466px;
+}
